@@ -1,7 +1,7 @@
 ---
 layout: post
 author: HTMLyrics
-title: Takkan Pernah Lelah - Everyone Does Everything New
+title: Akhir Cerita Ini - Everyone Does Everything New
 ---
 
 <div class="htl">Audio/mp3</div><br />
@@ -11,7 +11,7 @@ title: Takkan Pernah Lelah - Everyone Does Everything New
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1u-vvJb_vsQXVfUxPDHXNzrZOciMDZrHi&export=download" class="hbt"><i class="fa fa-arrow-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="https://drive.google.com/uc?authuser=0&id=1tCTxHhn5XkD8XZLJSnt3oQPQsZd7wAiY&export=download" class="hbt"><i class="fa fa-arrow-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
