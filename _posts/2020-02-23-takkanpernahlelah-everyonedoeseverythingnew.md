@@ -8,10 +8,10 @@ title: Takkan Pernah Lelah - Everyone Does Everything New
 
 <audio class='js-player' controls>
 <source src="https://drive.google.com/uc?authuser=0&id=1u-vvJb_vsQXVfUxPDHXNzrZOciMDZrHi&export=download" type="audio/mp3">
-</audio>
+</audio><br />
 
 <center>
-<a href="#url"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download..</a>
+<a href="#url"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Downloadq</a>
 </center>
 
 <div class="htl">Lyrics</div>
