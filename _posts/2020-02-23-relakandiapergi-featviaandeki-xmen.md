@@ -53,4 +53,7 @@ tapi takkan mungkin waktu bisa terulang kembali<br />
 dan ku harus merelakanmu pergi dariku<br />
 dan ku harus merelakanmu pergi dariku<br />
 dan ku harus merelakanmu pergi dariku<br />
-dan ku harus merelakanmu pergi dariku
+dan ku harus merelakanmu pergi dariku<br />
+
+<i class="fa fa-hashtag" aria-hidden="true"></i>
+<a href="/artist/xmen>X-Men</a>
