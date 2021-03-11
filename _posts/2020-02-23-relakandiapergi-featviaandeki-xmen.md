@@ -56,4 +56,4 @@ dan ku harus merelakanmu pergi dariku<br />
 dan ku harus merelakanmu pergi dariku<br />
 
 <i class="fa fa-hashtag" aria-hidden="true"></i>
-<a href="/artist/xmen>X-Men</a>
+<a href="/artist/xmen">X-Men</a>
