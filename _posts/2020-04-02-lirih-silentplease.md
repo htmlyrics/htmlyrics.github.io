@@ -71,4 +71,4 @@ muntah pelukan senyum harapan<br />
 <br />
 
 <i class="fa fa-hashtag" aria-hidden="true"></i>
-<a href="/artist/Silent Please">Silent Please</a>
+<a href="/artist/silentplease">Silent Please</a>
