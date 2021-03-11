@@ -62,7 +62,7 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
-<a title='Everyone Does Everything New' href='/everyonedoeseverythingnew'>Everyone Does Everything New</a>
+<a title='Everyone Does Everything New' href='/artist/everyonedoeseverythingnew'>Everyone Does Everything New</a>
 </div>
 </div>
 </div>
@@ -192,7 +192,7 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
-<a title='Silent Please' href='/silentplease'>Silent Please</a>
+<a title='Silent Please' href='/artist/silentplease'>Silent Please</a>
 </div>
 </div>
 </div>
@@ -241,7 +241,7 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
-<a title='X-Men' href='/xmen'>X-Men</a>
+<a title='X-Men' href='/artist/xmen'>X-Men</a>
 </div>
 </div>
 </div>
