@@ -1,6 +1,6 @@
 title: HTMLyrics
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
+theme: jekyll-theme-htmlyrics
 
 # for a clean URL
 permalink: :slug
