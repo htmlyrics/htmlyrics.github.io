@@ -4,7 +4,7 @@
     .post-link {
         color: inherit;
         display:block;
-        padding: $spacing-unit;
+        padding: 10px;
         transition: .3s background-color;
         &:not(:last-child) {
             border-bottom:1px solid $header-color;
