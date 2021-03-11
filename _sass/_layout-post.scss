@@ -137,8 +137,17 @@ background-color:#000;
  float: left;
  width: 50%;
 }
-.tml .t-title{display: list-item;margin-left: 20px}
-.tml .t-title a{line-height: 24px;font-size: 14px;color: #000000;text-overflow: ellipsis;overflow: hidden;}}
+.tml .t-title{
+ display: list-item;
+ margin-left: 20px;
+}
+.tml .t-title a{
+ line-height: 24px;
+ font-size: 14px;
+ color: #000000;
+ text-overflow: ellipsis;
+ overflow: hidden;
+}
 @media only screen and (max-width: 768px){.tml .t-item{width:50%}}
 @media screen and (max-width:480px){.tml .t-item{width:100%}.tml .t-apb a{margin: 1px;width: 10.43%}}
 @media screen and (max-width:320px){.tml .t-apb a{width: 10.24%}}
