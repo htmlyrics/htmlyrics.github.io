@@ -95,4 +95,8 @@ takkan berguna<br />
 kau menyiksa<br />
 perlahan ku kian tersiksa<br />
 saat kau berikan<br />
-senyuman hina
+senyuman hina<br />
+<br />
+
+<i class="fa fa-hashtag" aria-hidden="true"></i>
+<a href="/artist/silentplease">Silent Please</a>
