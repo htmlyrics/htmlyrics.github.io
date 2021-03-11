@@ -64,4 +64,8 @@ ingatkan saat kau di sini (di sini)<br />
 
 lalui hari bersamamu<br />
 (perih hampa terasa ku untaikan semua)<br />
-sirna semua yang ku rasa
+sirna semua yang ku rasa<br />
+<br />
+
+<i class="fa fa-hashtag" aria-hidden="true"></i>
+<a href="/artist/silentplease">Silent Please</a>
