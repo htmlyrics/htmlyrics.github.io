@@ -78,17 +78,16 @@ border-left: 1px solid #E0E0E0;
 }
 
 .hbt {
-color:#000000;
+color:#000;
 background:#fff;
 padding:6px 15px;
-border:none;
+border:2px solid #000;
 -webkit-transition: .3s;
 transition: .3s;
-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.75);
+font-size:12.5px;
 }
 .hbt:hover{
-color:#000000;
-border:none;
-background-color:#fff;
-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.45);
+color:#fff;
+border:2px solid #000;
+background-color:#000;
 }
