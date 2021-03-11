@@ -6,8 +6,8 @@ theme: jekyll-theme-leaf
 permalink: :htmlyrics
 
 social:
-  twitter: _htmlyrics
-  github: HTMLyrics
+  twitter: #url
+  github: #url
 
 plugins:
  - jekyll-feed
