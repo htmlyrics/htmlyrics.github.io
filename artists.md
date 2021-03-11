@@ -127,7 +127,7 @@ layout: page
 <a name='L'>L</a>
 </div>
 
-!-- KODE IN HERE -->
+<!-- KODE IN HERE -->
 </div>
 
 
