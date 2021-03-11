@@ -4,18 +4,17 @@ author: HTMLyrics
 title: Takkan Pernah Lelah - Everyone Does Everything New
 ---
 
-<div class="htl">Audio/mp3</div>
+<div class="htl">Audio/mp3</div><br />
 
 <audio class='js-player' controls>
 <source src="https://drive.google.com/uc?authuser=0&id=1u-vvJb_vsQXVfUxPDHXNzrZOciMDZrHi&export=download" type="audio/mp3">
 </audio><br />
 
 <center>
-<a href="#url"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Downloadq</a>
-</center>
+<a href="#url"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+</center><br />
 
 <div class="htl">Lyrics</div>
-
 hentikan senyum palsumu<br />
 jika ingin buatku senang<br />
 dan sudahi cerita ini<br />
