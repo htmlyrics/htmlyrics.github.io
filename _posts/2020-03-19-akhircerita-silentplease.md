@@ -2,8 +2,6 @@
 layout: post
 author: HTMLyrics
 title: Akhir Cerita - Silent Please
-tags: [silent please]
-category : silent please
 ---
 
 <div class="htl">Audio/mp3</div><br />
