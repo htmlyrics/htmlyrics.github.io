@@ -1,4 +1,5 @@
 ---
+permalink: /artist.html
 title: Artist
 layout: page
 ---
