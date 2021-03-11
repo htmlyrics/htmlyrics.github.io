@@ -93,15 +93,50 @@ background-color:#000;
 }
 
 /* List  */
-.tml{overflow:hidden}
-.tml .t-apb{font-size: 14px;display: block;position: relative;overflow: hidden}
-.tml .t-apb a{line-height: 30px;width: 3.704%;color: #FFFFFF;background: #424242;transition: all 0.25s;text-align: center;float: left}
-.tml .t-apb a:hover{text-decoration: none;background: #2977BE;color: #FFFFFF}
-.tml .t-wrap{margin-top: 5px}
-.tml .t-group{display: inline-block;width: 100%;margin-bottom: 10px}
-.tml .t-head{font-weight: 700;border-bottom: 2px solid #2977BE;font-size: 15px;padding: 5px}
-.tml .t-head a{color: #333333}
-.tml .t-item{float: left;width: 50%;displa}
+.tml{
+ overflow:hidden;
+}
+.tml .t-apb{
+ font-size: 14px;
+ display: block;
+ position: relative;
+ overflow: hidden;
+}
+.tml .t-apb a{
+ line-height: 30px;
+ width: 3.704%;
+ color: #FFFFFF;
+ background: #424242;
+ transition: all 0.25s;
+ text-align: center;
+ float: left;
+}
+.tml .t-apb a:hover{
+ text-decoration: none;
+ background: #2977BE;
+ color: #FFFFFF;
+}
+.tml .t-wrap{
+ margin-top: 5px
+}
+.tml .t-group{
+ display: inline-block;
+ width: 100%;
+ margin-bottom: 10px;
+}
+.tml .t-head{
+ font-weight: 700;
+ border-bottom: 2px solid #2977BE;
+ font-size: 15px;
+ padding: 5px;
+}
+.tml .t-head a{
+ color: #333333;
+}
+.tml .t-item{
+ float: left;
+ width: 50%;
+}
 .tml .t-title{display: list-item;margin-left: 20px}
 .tml .t-title a{line-height: 24px;font-size: 14px;color: #000000;text-overflow: ellipsis;overflow: hidden;}}
 @media only screen and (max-width: 768px){.tml .t-item{width:50%}}
