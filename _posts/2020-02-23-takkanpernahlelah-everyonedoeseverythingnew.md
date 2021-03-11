@@ -5,51 +5,52 @@ title: Takkan Pernah Lelah - Everyone Does Everything New
 ---
 
 Lyrics
-hentikan senyum palsumu
-jika ingin buatku senang
-dan sudahi cerita ini
-ku tak ingin kau bohongi diri
 
-dari semua kata yang kau ucap
-dari semua senyum yang kau buat
-dan ternyata kau ingin menipu (menipuku)
+hentikan senyum palsumu<br />
+jika ingin buatku senang<br />
+dan sudahi cerita ini<br />
+ku tak ingin kau bohongi diri<br />
 
-kau selalu buat senang diriku
-bujuk rayumu yakinkan aku
-namun kau bersamanya di sana (di sana)
+dari semua kata yang kau ucap<br />
+dari semua senyum yang kau buat<br />
+dan ternyata kau ingin menipu (menipuku)<br />
 
-hentikan senyum palsumu
-jika ingin buatku senang
-dan sudahi cerita ini
-ku tak ingin kau bohongi diri
+kau selalu buat senang diriku<br />
+bujuk rayumu yakinkan aku<br />
+namun kau bersamanya di sana (di sana)<br />
 
-kau campakkan senyuman untukku
-namun hatimu memikirkannya
-sungguh yang kurasakan berbeda (berbeda)
+hentikan senyum palsumu<br />
+jika ingin buatku senang<br />
+dan sudahi cerita ini<br />
+ku tak ingin kau bohongi diri<br />
 
-hentikan senyum palsumu
-jika ingin buatku senang
-dan sudahi cerita ini
-ku tak ingin kau bohongi diri
+kau campakkan senyuman untukku<br />
+namun hatimu memikirkannya<br />
+sungguh yang kurasakan berbeda (berbeda)<br />
 
-hentikan senyum palsumu
-jika ingin buatku senang
-dan sudahi cerita ini
-ku tak ingin kau bohongi diri
+hentikan senyum palsumu<br />
+jika ingin buatku senang<br />
+dan sudahi cerita ini<br />
+ku tak ingin kau bohongi diri<br />
 
-semua keindahan
-yang telah terucap
-dari mulut manismu
-kan ku akhiri semua
-saat kau tenggelam
-dalam tawamu
+hentikan senyum palsumu<br />
+jika ingin buatku senang<br />
+dan sudahi cerita ini<br />
+ku tak ingin kau bohongi diri<br />
 
-hentikan senyum palsumu
-jika ingin buatku senang
-dan sudahi cerita ini
-ku tak ingin kau bohongi diri
+semua keindahan<br />
+yang telah terucap<br />
+dari mulut manismu<br />
+kan ku akhiri semua<br />
+saat kau tenggelam<br />
+dalam tawamu<br />
 
-hentikan senyum palsumu
-jika ingin buatku senang
-dan sudahi cerita ini
+hentikan senyum palsumu<br />
+jika ingin buatku senang<br />
+dan sudahi cerita ini<br />
+ku tak ingin kau bohongi diri<br />
+
+hentikan senyum palsumu<br />
+jika ingin buatku senang<br />
+dan sudahi cerita ini<br />
 ku tak ingin kau bohongi diri
