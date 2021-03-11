@@ -1,7 +1,7 @@
 ---
 layout: post
 author: HTMLyrics
-title: Akhir Cerita Ini - Everyone Does Everything New
+title: Akhir Cerita Ini - Everyone Does Everything 
 ---
 
 <div class="htl">Audio/mp3</div><br />
