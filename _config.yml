@@ -3,7 +3,7 @@ iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
 # for a clean URL
-permalink: :htmlyrics
+permalink: :slug
 
 social:
   twitter: #url
