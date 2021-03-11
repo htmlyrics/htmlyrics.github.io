@@ -14,7 +14,9 @@ title: Takkan Pernah Lelah - Everyone Does Everything New
 <a href="#url"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 
-<div class="htl">Lyrics</div>
+
+<div class="htl">Lyrics</div><br />
+
 hentikan senyum palsumu<br />
 jika ingin buatku senang<br />
 dan sudahi cerita ini<br />
