@@ -1,7 +1,8 @@
 ---
 title: Artists
-layout: page
+layout: default
 ---
 
 a
+
 b
