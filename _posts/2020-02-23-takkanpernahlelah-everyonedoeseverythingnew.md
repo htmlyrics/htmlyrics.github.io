@@ -4,9 +4,9 @@ author: HTMLyrics
 title: Takkan Pernah Lelah - Everyone Does Everything New
 ---
 
-Audio/mp34
+<div class="htl">Audio/mp3</div>
 
-Lyrics
+<div class="htl">Lyrics</div>
 hentikan senyum palsumu<br />
 jika ingin buatku senang<br />
 dan sudahi cerita ini<br />
