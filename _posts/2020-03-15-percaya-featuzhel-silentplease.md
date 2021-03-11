@@ -80,4 +80,8 @@ aku percaya<br />
 
 ku percaya<br />
 telah kau raih, pastikan tiba<br />
-aku percaya
+aku percaya<br />
+<br />
+
+<i class="fa fa-hashtag" aria-hidden="true"></i>
+<a href="/artist/silentplease">Silent Please</a>
