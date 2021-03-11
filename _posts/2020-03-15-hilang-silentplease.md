@@ -84,4 +84,8 @@ sisa yang hina<br />
 muntahan luka<br />
 hempas semua dijiwa<br />
 sakit yang kan terasa<br />
-sakit yang kan terasa
+sakit yang kan terasa<br />
+<br />
+
+<i class="fa fa-hashtag" aria-hidden="true"></i>
+<a href="/artist/silentplease">Silent Please</a>
