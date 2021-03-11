@@ -64,4 +64,8 @@ ku tak ingin kau bohongi diri<br />
 hentikan senyum palsumu<br />
 jika ingin buatku senang<br />
 dan sudahi cerita ini<br />
-ku tak ingin kau bohongi diri
+ku tak ingin kau bohongi diri<br />
+<br />
+
+<i class="fa fa-hashtag" aria-hidden="true"></i>
+<a href="/artist/everyonedoeseverythingnew">Everyone Does Everything New</a>
