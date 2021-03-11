@@ -9,7 +9,7 @@ title: Takkan Pernah Lelah - Everyone Does Everything New
 <source src="https://drive.google.com/uc?authuser=0&id=1u-vvJb_vsQXVfUxPDHXNzrZOciMDZrHi&export=download" type="audio/mp3">
 </audio>
 <center>
-<a href="#url" class="hbt"><i class="fa fa-caret-down" aria-hidden="true"></i> Downloadu</a>
+<a href="#url" class="hbt"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center>
 <div class="htl">Lyrics</div>
 hentikan senyum palsumu<br />
