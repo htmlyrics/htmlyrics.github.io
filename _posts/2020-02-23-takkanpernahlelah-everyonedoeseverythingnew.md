@@ -4,9 +4,9 @@ author: HTMLyrics
 title: Takkan Pernah Lelah - Everyone Does Everything New
 ---
 
-<div class="htl">Audio/mp3</div><br />
+<div class="htl">Audio/mp3.</div><br />
 
-<audio class='js-player' controls>
+<audio class='js-player' style="--plyr-color-main: #1ac266;" controls>
 <source src="https://drive.google.com/uc?authuser=0&id=1u-vvJb_vsQXVfUxPDHXNzrZOciMDZrHi&export=download" type="audio/mp3">
 </audio><br />
 
