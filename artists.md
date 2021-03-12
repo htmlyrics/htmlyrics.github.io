@@ -211,6 +211,11 @@ layout: page
 <a title='Silent Please' href='/artist/silentplease'>Silent Please</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='Style Ancient Kids' href='/artist/styleancientkids'>Style Ancient Kids</a>
+</div>
+</div>
 </div>
 
 
