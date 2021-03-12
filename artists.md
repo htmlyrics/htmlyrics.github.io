@@ -144,7 +144,11 @@ layout: page
 <a name='M'>M</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='My Mother Says' href='/artist/mymothersays'>My Mother Says</a>
+</div>
+</div>
 </div>
 
 
