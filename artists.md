@@ -33,7 +33,11 @@ layout: page
 <a name='B'>B</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Boys From 13' href='/artist/boysfrom13'>Boys From 13</a>
+</div>
+</div>
 </div>
 
 
