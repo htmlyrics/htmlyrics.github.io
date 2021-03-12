@@ -81,7 +81,11 @@ layout: page
 <a name='F'>F</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Famous Freak' href='/artist/famousfreak'>Famous Freak</a>
+</div>
+</div>
 </div>
 
 
