@@ -16,19 +16,11 @@
       </label>
 
       <div class="trigger">
-         
           {%- assign my_page = site.pages | where: "path", path | first -%}
-          
-            
-              
-            
               {% assign className = "page-link" %}
-            
             <a class="{{ className }}" href="/artists">
               Artists
             </a>
-           
-        
       </div>
     </nav>
   {%- endif -%}
