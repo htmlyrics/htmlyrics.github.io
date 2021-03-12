@@ -20,12 +20,12 @@
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
             {% if my_page.url == page.url %}
-              {% assign className = "page-link active" %}
-            {% else %}
               
+            {% else %}
+              {% assign className = "page-link" %}
             {% endif %}
             <a class="{{ className }}" href="/artists">
-              Artists
+              Artist
             </a>
            {%- endif -%}
         {%- endfor -%}
