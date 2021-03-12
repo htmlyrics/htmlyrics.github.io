@@ -24,7 +24,11 @@ layout: page
 <a name='A'>A</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Amon-Ra' href='/artist/amonra'>Amon-Ra</a>
+</div>
+</div>
 </div>
 
 
