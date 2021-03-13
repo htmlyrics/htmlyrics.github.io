@@ -11,7 +11,7 @@ title: Lirih - Silent Please
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1t___NqakKtzz37wtUOXgmypXl22f26w6&export=download" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/lirih-silentplease" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
