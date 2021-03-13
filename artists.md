@@ -155,6 +155,11 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
+<a title='Message For Me' href='/artist/messageforme'>Message For Me</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='My Mother Says' href='/artist/mymothersays'>My Mother Says</a>
 </div>
 </div>
