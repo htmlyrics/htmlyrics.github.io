@@ -11,7 +11,7 @@ title: Semau Gue - Boys From 13
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1tukoFiKH1lxm8FccbivEkV0jhSOk3DFQ&export=download" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/semaugue-boysfrom13" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
