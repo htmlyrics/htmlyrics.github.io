@@ -73,6 +73,11 @@ layout: page
 <a title='Everyone Does Everything New' href='/artist/everyonedoeseverythingnew'>Everyone Does Everything New</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='Eyie' href='/artist/eyie'>Eyie</a>
+</div>
+</div>
 </div>
 
 
