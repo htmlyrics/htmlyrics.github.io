@@ -260,7 +260,11 @@ layout: page
 <a name='V'>V</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Vioshie' href='/artist/vioshie'>Vioshie</a>
+</div>
+</div>
 </div>
 
 
