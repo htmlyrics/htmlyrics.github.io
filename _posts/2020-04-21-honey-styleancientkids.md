@@ -11,7 +11,7 @@ title: Honey - Style Ancient Kids
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1uP-JldBfFQTY3hVTKFcHitL5HsFwJxhf&export=download" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/honey-styleancientkids" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
