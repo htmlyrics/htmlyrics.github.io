@@ -11,7 +11,7 @@ title: Relakan Dia Pergi (feat. Via & Eki) - X-Men
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1t9yzxSJMwfgJ_nSuR1eRth7d3viWJ6YG&export=download" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/relakandiapergi-featviaandeki-xmen" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
