@@ -5,6 +5,9 @@ theme: jekyll-theme-htmlyrics
 # for a clean URL
 permalink: :slug
 
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 social:
   twitter: #url
   github: #url
