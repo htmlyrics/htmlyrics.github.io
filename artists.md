@@ -175,7 +175,11 @@ layout: page
 <a name='N'>N</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Never Give Up Nobita' href='/artist/nevergiveupnobita'>Never Give Up Nobita</a>
+</div>
+</div>
 </div>
 
 
