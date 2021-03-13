@@ -11,7 +11,7 @@ title: Akhir Cerita Ini - Everyone Does Everything New
 </audio><br />
 
 <center>
-<a href="/akhirceritaini-everyonedoeseverythingnew" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/akhirceritaini-everyonedoeseverythingnew" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
