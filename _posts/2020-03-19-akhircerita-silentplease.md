@@ -11,7 +11,7 @@ title: Akhir Cerita - Silent Please
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1tJ-xOrP9lPVLFI7KTdfsayBt1jLx79dp&export=download" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/akhircerita-silentplease" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
