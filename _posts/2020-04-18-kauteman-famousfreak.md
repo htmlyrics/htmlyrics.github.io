@@ -11,7 +11,7 @@ title: Kau Teman - Famous Freak
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1uFx8HqHfUlYfSvcl04bBIWFE6_FvcCBC&export=download" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/kauteman-famousfreak" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
