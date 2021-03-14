@@ -202,7 +202,11 @@ layout: page
 <a name='P'>P</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Psydo Demokrasi' href='/artist/psydodemokrasi'>Psydo Demokrasi</a>
+</div>
+</div>
 </div>
 
 
