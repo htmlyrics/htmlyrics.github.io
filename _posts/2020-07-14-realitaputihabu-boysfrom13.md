@@ -11,7 +11,7 @@ title: Realita Putih Abu - Boys From 13
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1uvEKABkGcW8pzY1FFW4aTofT5TZ387P5&export=download" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/realitaputihabu-boysfrom13" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
