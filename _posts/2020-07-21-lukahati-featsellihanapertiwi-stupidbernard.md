@@ -11,7 +11,7 @@ title: Luka Hati (feat. Selli Hana Pertiwi) - Stupid Bernard
 </audio><br />
 
 <center>
-<a href="/download/lukahati-featsellihanapertiwi-stupidbernard.md" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/lukahati-featsellihanapertiwi-stupidbernard" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
