@@ -67,4 +67,4 @@ ku ingin hilang ingatan<br />
 <br />
 
 <i class="fa fa-hashtag" aria-hidden="true"></i>
-<a href="/artist/xmen">Men</a>
+<a href="/artist/sasatasia">Sasa Tasia</a>
