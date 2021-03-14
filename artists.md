@@ -174,6 +174,11 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
+<a title='Medicine For Diet' href='/artist/medicinefordiet'>Medicine For Diet</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Message For Me' href='/artist/messageforme'>Message For Me</a>
 </div>
 </div>
