@@ -61,7 +61,7 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
-<a title='D'&nda' href='/artist/dandnda'>D'&nda</a>
+<a title='D&nda' href='/artist/dandnda'>D'&nda</a>
 </div>
 </div>
 <div class='t-item'>
