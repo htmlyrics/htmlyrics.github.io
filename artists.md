@@ -105,6 +105,11 @@ layout: page
 <a title='Famous Freak' href='/artist/famousfreak'>Famous Freak</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='For Dance Miracle' href='/artist/fordancemiracle'>For Dance Miracle</a>
+</div>
+</div>
 </div>
 
 
