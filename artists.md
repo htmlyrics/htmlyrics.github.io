@@ -29,6 +29,11 @@ layout: page
 <a title='Amon-Ra' href='/artist/amonra'>Amon-Ra</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='Anak Bawang' href='/artist/anakbawang'>Anak Bawang</a>
+</div>
+</div>
 </div>
 
 
