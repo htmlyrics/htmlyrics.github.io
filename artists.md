@@ -226,6 +226,11 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
+<a title='Sasa Tasia' href='/artist/sasatasia'>Sasa Tasia</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Silent Please' href='/artist/silentplease'>Silent Please</a>
 </div>
 </div>
