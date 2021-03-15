@@ -23,15 +23,15 @@ canda tawamu takkan pernah hilang<br />
 dan ku kan selalu menunggumu<br />
 di sini<br />
 
-<p>: kemana aja sih?<p />
-  kenapa gak ada kabar gini?<p />
-<p>: gak ada kabar gimana?<p />
-<p>: kamu sebenarnya nganggap aku apa?<p />
-  kamu gak pernah selalu ada buat aku<p />
-<p>: yaudalah<p />
-<p>: tapi gua sayang sama lo<p />
-<p>: hah sayang?<p />
-<p>: mulai sekarang kita putus!<p />
+<p>: kemana aja sih?<br />
+&nbsp; kenapa gak ada kabar gini?<br />
+: gak ada kabar gimana?<br />
+: kamu sebenarnya nganggap aku apa?<br />
+  kamu gak pernah selalu ada buat aku<br />
+: yaudalah<br />
+: tapi gua sayang sama lo<br />
+: hah sayang?<br />
+: mulai sekarang kita putus!</p>
 
 hari ini ku memikirkanmu<br />
 walau kau tak pernah pedulikanku<br />
