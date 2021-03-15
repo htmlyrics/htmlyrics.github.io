@@ -281,7 +281,11 @@ layout: page
 <a name='T'>T</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='The Mistake Today' href='/artist/themistaketoday'>The Mistake Today</a>
+</div>
+</div>
 </div>
 
 
