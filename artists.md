@@ -115,6 +115,11 @@ layout: page
 <a title='For Dance Miracle' href='/artist/fordancemiracle'>For Dance Miracle</a>
 </div>
 </div>
+div class='t-item'>
+<div class='t-title'>
+<a title='Frend To Frend' href='/artist/frendtofrend'>Frend To Frend</a>
+</div>
+</div>
 </div>
 
 
