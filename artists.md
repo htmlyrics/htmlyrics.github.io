@@ -298,6 +298,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Stupid Mouse' href='/artist/stupidmouse'>Stupid Mouse</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Style Ancient Kids' href='/artist/styleancientkids'>Style Ancient Kids</a>
 </div>
 </div>
