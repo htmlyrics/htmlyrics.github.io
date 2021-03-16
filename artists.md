@@ -246,7 +246,11 @@ layout: page
 <a name='O'>O</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Otakatik' href='/artist/otakatik'>Otakatik</a>
+</div>
+</div>
 </div>
 
 
