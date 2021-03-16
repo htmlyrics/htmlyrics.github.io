@@ -49,6 +49,11 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
+<a title='Before A.m' href='/artist/befoream'>Before A.M</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Boys From 13' href='/artist/boysfrom13'>Boys From 13</a>
 </div>
 </div>
