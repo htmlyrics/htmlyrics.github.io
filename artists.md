@@ -60,7 +60,11 @@ layout: page
 <a name='C'>C</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Cut Chariot' href='/artist/cutchariot'>Cut Chariot</a>
+</div>
+</div>
 </div>
 
 
