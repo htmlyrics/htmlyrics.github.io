@@ -31,6 +31,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Alaika' href='/artist/alaika'>Alaika</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Amon-Ra' href='/artist/amonra'>Amon-Ra</a>
 </div>
 </div>
