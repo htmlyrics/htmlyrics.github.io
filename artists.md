@@ -243,6 +243,11 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
+<a title='Penguin of Madagascar' href='/artist/penguinofmadagascar'>Penguin of Madagascar</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Psydo Demokrasi' href='/artist/psydodemokrasi'>Psydo Demokrasi</a>
 </div>
 </div>
