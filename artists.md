@@ -296,6 +296,11 @@ layout: page
 <a title='The Mistake Today' href='/artist/themistaketoday'>The Mistake Today</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='Toilet Rules' href='/artist/toiletrules'>Toilet Rules</a>
+</div>
+</div>
 </div>
 
 
