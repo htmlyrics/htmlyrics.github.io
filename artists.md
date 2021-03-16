@@ -254,7 +254,11 @@ layout: page
 <a name='R'>R</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Ratu Kidul' href='/artist/ratukidul'>Ratu Kidul</a>
+</div>
+</div>
 </div>
 
 
