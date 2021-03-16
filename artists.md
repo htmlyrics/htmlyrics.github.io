@@ -151,7 +151,11 @@ layout: page
 <a name='H'>H</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Hikanyatumus' href='/artist/hikanyatumus'>Hikanyatumus</a>
+</div>
+</div>
 </div>
 
 
