@@ -228,6 +228,11 @@ layout: page
 <a title='Never Give Up Nobita' href='/artist/nevergiveupnobita'>Never Give Up Nobita</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='Nikibo' href='/artist/nikibo'>Nikibo</a>
+</div>
+</div>
 </div>
 
 
