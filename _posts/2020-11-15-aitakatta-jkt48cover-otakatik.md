@@ -49,4 +49,4 @@ aitakatta!<br />
 <br />
 
 <i class="fa fa-hashtag" aria-hidden="true"></i>
-<a href="/artist/otakatik">Otakatik</a>00
+<a href="/artist/otakatik">Otakatik</a>
