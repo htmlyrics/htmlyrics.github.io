@@ -221,6 +221,11 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
+<a title='Me and Melati' href='/artist/meandmelati'>Me and Melati</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Medicine For Diet' href='/artist/medicinefordiet'>Medicine For Diet</a>
 </div>
 </div>
