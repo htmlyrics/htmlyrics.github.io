@@ -346,6 +346,11 @@ layout: page
 <a title='Toilet Rules' href='/artist/toiletrules'>Toilet Rules</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='Twinkle And Bad Face' href='/artist/twinkleandbadface'>Twinkle And Bad Face</a>
+</div>
+</div>
 </div>
 
 
