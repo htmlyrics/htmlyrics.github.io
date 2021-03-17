@@ -90,6 +90,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title="Do Not Enter" href='/artist/donotenter'>Do Not Enter</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Dokter Kriminal' href='/artist/dokterkriminal'>Dokter Kriminal</a>
 </div>
 </div>
