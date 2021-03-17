@@ -187,7 +187,11 @@ layout: page
 <a name='K'>K</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Kembang Mayang' href='/artist/kembangmayang'>Kembang Mayang</a>
+</div>
+</div>
 </div>
 
 
