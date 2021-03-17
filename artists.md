@@ -325,6 +325,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Scary of Riots' href='/artist/scaryofriots'>Scary of Riots</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Silent Please' href='/artist/silentplease'>Silent Please</a>
 </div>
 </div>
