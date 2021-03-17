@@ -52,4 +52,4 @@ karena kutahu ku tak sempurna untukmu<br />
 <br />
 
 <i class="fa fa-hashtag" aria-hidden="true"></i>
-<a href="/artist/boysfrom13">Boys From 13</a>0
+<a href="/artist/boysfrom13">Boys From 13</a>
