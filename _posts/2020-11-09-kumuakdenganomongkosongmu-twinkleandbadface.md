@@ -1,7 +1,7 @@
 ---
 layout: post
 author: HTMLyrics
-title: Kumuak Dengan Omong Kosongmua - Twinkle And Bad Face
+title: Kumuak Dengan Omong Kosongmu - Twinkle And Bad Face
 ---
 
 <div class="htl">Audio/mp3</div><br />
