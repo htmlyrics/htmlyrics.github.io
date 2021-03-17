@@ -11,7 +11,7 @@ title: Aitakatta (JKT48 Cover) - Otakatik
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1PvqZRjVljlp4yoYttXnuhV5sZHy3zyEr&export=download" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/aitakatta-jkt48cover-otakatik" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
