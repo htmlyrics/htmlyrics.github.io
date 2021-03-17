@@ -52,4 +52,4 @@ bersama temanku, bukan kamu<br />
 <br />
 
 <i class="fa fa-hashtag" aria-hidden="true"></i>
-<a href="/artist/meandmelati">Me and Melati</a>0
+<a href="/artist/meandmelati">Me and Melati</a>
