@@ -158,6 +158,11 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
+<a title='Heafty' href='/artist/heafty'>Heafty</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Hikanyatumus' href='/artist/hikanyatumus'>Hikanyatumus</a>
 </div>
 </div>
