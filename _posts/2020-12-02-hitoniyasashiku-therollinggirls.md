@@ -11,7 +11,7 @@ title: Hito ni Yasashiku (人にやさしく) - The Rolling Girls
 </audio><br />
 
 <center>
-<a href="/download/hitoniyasashiku-therollinggirls.md" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/download/hitoniyasashiku-therollinggirls" class="hbt"><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
 <br />
 
