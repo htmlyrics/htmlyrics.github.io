@@ -15,9 +15,7 @@ title: Hito ni Yasashiku (人にやさしく) - The Rolling Girls
 </center><br />
 <br />
 
-<div class="htl">Lyrics</div><br />
-
-<i>Romanization</i>
+<div class="htl">Lyrics | <i>Romanization</i></div><br />
 
 ki ga kuruisou yasashii uta ga suki de<br />
 aa anata nimo kikasetai<br />
