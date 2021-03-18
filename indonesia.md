@@ -229,6 +229,11 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
+<a title='Maybe Someday' href='/artist/maybesomeday'>Maybe Someday</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Me and Melati' href='/artist/meandmelati'>Me and Melati</a>
 </div>
 </div>
