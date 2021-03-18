@@ -1,5 +1,5 @@
 ---
-title: Artists
+title: Country
 layout: page
 ---
 
