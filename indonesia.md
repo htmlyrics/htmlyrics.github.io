@@ -188,7 +188,11 @@ layout: page
 <a name='J'>J</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Just Hope Out' href='/artist/justhopeout'>Just Hope Out</a>
+</div>
+</div>
 </div>
 
 
