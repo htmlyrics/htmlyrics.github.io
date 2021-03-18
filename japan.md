@@ -33,16 +33,7 @@ layout: page
 <a name='B'>B</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Before A.m' href='/artist/befoream'>Before A.M</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Boys From 13' href='/artist/boysfrom13'>Boys From 13</a>
-</div>
-</div>
+<!-- KODE IN HERE -->
 </div>
 
 
@@ -51,11 +42,7 @@ layout: page
 <a name='C'>C</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Cut Chariot' href='/artist/cutchariot'>Cut Chariot</a>
-</div>
-</div>
+<!-- KODE IN HERE -->
 </div>
 
 
@@ -64,21 +51,7 @@ layout: page
 <a name='D'>D</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title="D'&nda" href='/artist/dandnda'>D'&nda</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title="Do Not Enter" href='/artist/donotenter'>Do Not Enter</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Dokter Kriminal' href='/artist/dokterkriminal'>Dokter Kriminal</a>
-</div>
-</div>
+<!-- KODE IN HERE -->
 </div>
 
 
@@ -87,21 +60,7 @@ layout: page
 <a name='E'>E</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Eldipie' href='/artist/eldipie'>Eldipie</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Everyone Does Everything New' href='/artist/everyonedoeseverythingnew'>Everyone Does Everything New</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Eyie' href='/artist/eyie'>Eyie</a>
-</div>
-</div>
+<!-- KODE IN HERE -->
 </div>
 
 
@@ -110,21 +69,7 @@ layout: page
 <a name='F'>F</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Famous Freak' href='/artist/famousfreak'>Famous Freak</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='For Dance Miracle' href='/artist/fordancemiracle'>For Dance Miracle</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Frend To Frend' href='/artist/frendtofrend'>Frend To Frend</a>
-</div>
-</div>
+<!-- KODE IN HERE -->
 </div>
 
 
@@ -142,16 +87,7 @@ layout: page
 <a name='H'>H</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Heafty' href='/artist/heafty'>Heafty</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Hikanyatumus' href='/artist/hikanyatumus'>Hikanyatumus</a>
-</div>
-</div>
+<!-- KODE IN HERE -->
 </div>
 
 
@@ -178,11 +114,7 @@ layout: page
 <a name='K'>K</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Kembang Mayang' href='/artist/kembangmayang'>Kembang Mayang</a>
-</div>
-</div>
+<!-- KODE IN HERE -->
 </div>
 
 
@@ -200,26 +132,7 @@ layout: page
 <a name='M'>M</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Me and Melati' href='/artist/meandmelati'>Me and Melati</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Medicine For Diet' href='/artist/medicinefordiet'>Medicine For Diet</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Message For Me' href='/artist/messageforme'>Message For Me</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='My Mother Says' href='/artist/mymothersays'>My Mother Says</a>
-</div>
-</div>
+<!-- KODE IN HERE -->
 </div>
 
 
@@ -228,11 +141,7 @@ layout: page
 <a name='N'>N</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='SpecialThanks' href='/artist/specialthanks'>SpecialThanks</a>
-</div>
-</div>
+
 </div>
 
 
@@ -241,11 +150,7 @@ layout: page
 <a name='O'>O</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Otakatik' href='/artist/otakatik'>Otakatik</a>
-</div>
-</div>
+
 </div>
 
 
@@ -254,16 +159,7 @@ layout: page
 <a name='P'>P</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Penguin of Madagascar' href='/artist/penguinofmadagascar'>Penguin of Madagascar</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Psydo Demokrasi' href='/artist/psydodemokrasi'>Psydo Demokrasi</a>
-</div>
-</div>
+
 </div>
 
 
@@ -281,11 +177,7 @@ layout: page
 <a name='R'>R</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Ratu Kidul' href='/artist/ratukidul'>Ratu Kidul</a>
-</div>
-</div>
+
 </div>
 
 
@@ -296,27 +188,7 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
-<a title='Scary of Riots' href='/artist/scaryofriots'>Scary of Riots</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Silent Please' href='/artist/silentplease'>Silent Please</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Stupid Bernard' href='/artist/stupidbernard'>Stupid Bernard</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Stupid Mouse' href='/artist/stupidmouse'>Stupid Mouse</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Style Ancient Kids' href='/artist/styleancientkids'>Style Ancient Kids</a>
+<a title='SpecialThanks' href='/artist/specialthanks'>SpecialThanks</a>
 </div>
 </div>
 </div>
@@ -327,21 +199,7 @@ layout: page
 <a name='T'>T</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='The Mistake Today' href='/artist/themistaketoday'>The Mistake Today</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Toilet Rules' href='/artist/toiletrules'>Toilet Rules</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Twinkle And Bad Face' href='/artist/twinkleandbadface'>Twinkle And Bad Face</a>
-</div>
-</div>
+
 </div>
 
 
@@ -377,11 +235,7 @@ layout: page
 <a name='X'>X</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='X-Men' href='/artist/xmen'>X-Men</a>
-</div>
-</div>
+
 </div>
 
 
