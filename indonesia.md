@@ -210,7 +210,11 @@ layout: page
 <a name='L'>L</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Lowdick' href='/artist/lowdick'>Lowdick</a>
+</div>
+</div>
 </div>
 
 
