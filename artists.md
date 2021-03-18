@@ -320,11 +320,6 @@ layout: page
 
 <div class='t-item'>
 <div class='t-title'>
-<a title='Sasa Tasia' href='/artist/sasatasia'>Sasa Tasia</a>
-</div>
-</div>
-<div class='t-item'>
-<div class='t-title'>
 <a title='Scary of Riots' href='/artist/scaryofriots'>Scary of Riots</a>
 </div>
 </div>
@@ -388,11 +383,7 @@ layout: page
 <a name='V'>V</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='Vioshie' href='/artist/vioshie'>Vioshie</a>
-</div>
-</div>
+
 </div>
 
 
