@@ -366,6 +366,11 @@ layout: page
 <a title='Style Ancient Kids' href='/artist/styleancientkids'>Style Ancient Kids</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='Syndrome' href='/artist/syndrome'>Syndrome</a>
+</div>
+</div>
 </div>
 
 
