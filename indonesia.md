@@ -407,7 +407,11 @@ layout: page
 <a name='U'>U</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Uncle Bob' href='/artist/unclebob'>Uncle Bob</a>
+</div>
+</div>
 </div>
 
 
