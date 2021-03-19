@@ -252,6 +252,11 @@ layout: page
 <a title='My Mother Says' href='/artist/mymothersays'>My Mother Says</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='My Name Is' href='/artist/mynameis'>My Name Is</a>
+</div>
+</div>
 </div>
 
 
