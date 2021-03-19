@@ -348,6 +348,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Sorban Hitam' href='/artist/sorbanhitam'>Sorban Hitam</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Stupid Bernard' href='/artist/stupidbernard'>Stupid Bernard</a>
 </div>
 </div>
