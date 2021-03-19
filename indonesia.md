@@ -381,6 +381,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='The Sanwani' href='/artist/thesanwani'>The Sanwani</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Toilet Rules' href='/artist/toiletrules'>Toilet Rules</a>
 </div>
 </div>
