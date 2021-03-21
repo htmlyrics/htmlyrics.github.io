@@ -328,6 +328,11 @@ layout: page
 <a title='Ratu Kidul' href='/artist/ratukidul'>Ratu Kidul</a>
 </div>
 </div>
+<div class='t-item'>
+<div class='t-title'>
+<a title='Rolly Polly Olly' href='/artist/rollypollyolly'>Rolly Polly Olly</a>
+</div>
+</div>
 </div>
 
 
