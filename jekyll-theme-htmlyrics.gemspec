@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-htmlyrics"
   spec.version       = "0.1.0"
   spec.authors       = ["HTMLyrics"]
-  spec.email         = ["blckmelodic@gmail.com"]
+  spec.email         = ["htmlyrics.official@gmail.com"]
 
   spec.summary       = "Minimal yet beautiful Jekyll theme for dark background lovers."
   spec.homepage      = "https://github.com/HTMLyrics/htmlyrics.github.io"
