@@ -353,6 +353,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Social For Halloween' href='/artist/socialforhalloween'>Social For Halloween</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Sorban Hitam' href='/artist/sorbanhitam'>Sorban Hitam</a>
 </div>
 </div>
