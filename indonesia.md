@@ -152,7 +152,11 @@ layout: page
 <a name='G'>G</a>
 </div>
 
-<!-- KODE IN HERE -->
+<div class='t-item'>
+<div class='t-title'>
+<a title='Go Or Stay' href='/artist/goorstay'>Go Or Stay</a>
+</div>
+</div>
 </div>
 
 
