@@ -64,6 +64,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Black Diary Stupid Kid' href='/artist/blackdiarystupidkid'>Black Diary Stupid Kid</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Boys From 13' href='/artist/boysfrom13'>Boys From 13</a>
 </div>
 </div>
