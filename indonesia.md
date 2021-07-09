@@ -349,6 +349,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Robot Skip Party' href='/artist/robotskipparty'>Robot Skip Party</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Rolly Polly Olly' href='/artist/rollypollyolly'>Rolly Polly Olly</a>
 </div>
 </div>
