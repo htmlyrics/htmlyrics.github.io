@@ -199,11 +199,6 @@ layout: page
 <a name='T'>T</a>
 </div>
 
-<div class='t-item'>
-<div class='t-title'>
-<a title='The Rolling Girls' href='/artist/therollinggirls'>The Rolling Girls</a>
-</div>
-</div>
 </div>
 
 
