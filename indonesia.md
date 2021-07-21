@@ -302,11 +302,6 @@ layout: page
 <a title='Otakatik' href='/artist/otakatik'>Otakatik</a>
 </div>
 </div>
-<div class='t-item'>
-<div class='t-title'>
-<a title='Overbodden' href='/artist/overbodden'>Overbodden</a>
-</div>
-</div>
 </div>
 
 
