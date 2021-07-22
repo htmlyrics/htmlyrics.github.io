@@ -59,6 +59,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Batu Nisan' href='/artist/batunisan'>Batu Nisan</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Before A.m' href='/artist/befoream'>Before A.M</a>
 </div>
 </div>
