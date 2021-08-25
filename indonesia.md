@@ -382,6 +382,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Street Punk Rockers' href='/artist/streetpunkrockers'>Street Punk Rockers</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Stupid Bernard' href='/artist/stupidbernard'>Stupid Bernard</a>
 </div>
 </div>
