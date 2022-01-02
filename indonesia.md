@@ -392,6 +392,11 @@ layout: page
 </div>
 <div class='t-item'>
 <div class='t-title'>
+<a title='Stupid Bomberboy' href='/artist/stupidbomberboy'>Stupid Bomberboy</a>
+</div>
+</div>
+<div class='t-item'>
+<div class='t-title'>
 <a title='Stupid Mouse' href='/artist/stupidmouse'>Stupid Mouse</a>
 </div>
 </div>
